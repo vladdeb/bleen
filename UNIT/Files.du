@@ -1,0 +1,2 @@
+File.handler    db      ?
+File.dftDir     db      64 dup (?)
